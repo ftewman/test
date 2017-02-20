@@ -5,4 +5,5 @@ package com.example.quyetchu.myapplication;
  */
 public class Student {
     String name;
+    int old;
 }
