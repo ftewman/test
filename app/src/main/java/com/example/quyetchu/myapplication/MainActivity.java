@@ -18,9 +18,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void test(){
-        Log.i("MainActivity","log checkout");
+        Log.i("MainActivity","log hi");
     }
-
 
 
 }
