@@ -21,4 +21,8 @@ public class MainActivity extends AppCompatActivity {
         Log.i("MainActivity","log tét");
     }
 
+    public void test2(){
+        Log.i("abc","def");
+    }
+
 }
